@@ -5,7 +5,7 @@
 Yêu cầu Python 3. Không cần cài thư viện ngoài.
 
 ```bash
-python3 main.py
+python main.py
 ```
 
 ## Chạy test
