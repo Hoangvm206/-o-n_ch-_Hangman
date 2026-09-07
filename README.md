@@ -49,7 +49,6 @@ python -m unittest test_game.py
 - Tất cả từ trong `words.txt` là một từ tiếng Anh chỉ gồm chữ cái để phần xử lý đơn giản nhất.
 - Chữ hoa và chữ thường được chuyển về chữ thường trước khi so sánh.
 - Input không hợp lệ và chữ đã đoán không bị trừ lượt.
-- Không triển khai các mục nâng cao vì đây là phiên bản tối thiểu.
 ## Nếu có thêm thời gian
 
 Có thể thêm độ khó, gợi ý, chủ đề, điểm số, từ tiếng Việt và giao diện web.
